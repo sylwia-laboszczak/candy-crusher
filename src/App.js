@@ -238,7 +238,7 @@ const App = () => {
             onDragEnd={dragEnd}
           />
         ))}
-        ;
+        
       </div>
 
       <ScoreBoard score={scoreDisplay} />
