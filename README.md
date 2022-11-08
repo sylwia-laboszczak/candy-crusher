@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+
+# Demo 
+Live demo available at [link](https://sylwia-laboszczak.github.io/candy-crusher/)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
