@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/candy-crusher/static/css/main.59b90204.css",
+    "main.js": "/candy-crusher/static/js/main.6dfd076e.js",
+    "static/media/purple-candy.png": "/candy-crusher/static/media/purple-candy.f46a7199ce4ad635bb2a.png",
+    "static/media/red-candy.png": "/candy-crusher/static/media/red-candy.86a63658f18c4e85a96b.png",
+    "static/media/orange-candy.png": "/candy-crusher/static/media/orange-candy.bb73aade29bc3a5e7f0d.png",
+    "static/media/yellow-candy.png": "/candy-crusher/static/media/yellow-candy.e123dcf7026bac24e346.png",
+    "static/media/blue-candy.png": "/candy-crusher/static/media/blue-candy.7218df6b0e4f808b11da.png",
+    "static/media/green-candy.png": "/candy-crusher/static/media/green-candy.314c7028166328e167fc.png",
+    "index.html": "/candy-crusher/index.html",
+    "main.59b90204.css.map": "/candy-crusher/static/css/main.59b90204.css.map",
+    "main.6dfd076e.js.map": "/candy-crusher/static/js/main.6dfd076e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59b90204.css",
+    "static/js/main.6dfd076e.js"
+  ]
+}
